@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# TODO(domain): add "Sitemap: https://YOUR-DOMAIN/sitemap.xml" once the domain is known
